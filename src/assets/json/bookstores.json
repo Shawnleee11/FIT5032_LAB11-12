@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "City Library Store",
+    "city": "Melbourne"
+  },
+  {
+    "id": 2,
+    "name": "Campus Books",
+    "city": "Clayton"
+  }
+]

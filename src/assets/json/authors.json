@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "George Orwell",
+    "birthYear": 1903,
+    "famousWorks": [
+      {
+        "title": "1984"
+      },
+      {
+        "title": "Animal Farm"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Harper Lee",
+    "birthYear": 1926,
+    "famousWorks": [
+      {
+        "title": "To Kill a Mockingbird"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "J.R.R. Tolkien",
+    "birthYear": 1892,
+    "famousWorks": [
+      {
+        "title": "The Hobbit"
+      },
+      {
+        "title": "The Lord of the Rings"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "F. Scott Fitzgerald",
+    "birthYear": 1896,
+    "famousWorks": [
+      {
+        "title": "The Great Gatsby"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Jane Austen",
+    "birthYear": 1775,
+    "famousWorks": [
+      {
+        "title": "Pride and Prejudice"
+      }
+    ]
+  }
+]
